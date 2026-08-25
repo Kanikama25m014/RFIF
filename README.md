@@ -1,3 +1,6 @@
+# This Project is done in COLLABORATION with Devharish(My Batchmate). So, Code is Forked.
+
+
 # Recurrent Fractal Interpolation for Financial Data with Generalized Tempered Stable Noise
 
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
